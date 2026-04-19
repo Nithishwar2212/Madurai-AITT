@@ -1,0 +1,33 @@
+Tally Daybook html export
+
+This feature is designed to export the daybook in html format so that you can further copy and paste in excel and remove unwanted columns and realign 
+it as per your requirement.
+
+This bot is designed for educational mode tally users who could only access some of the dates in the tally software while exporting directly to excel.
+
+So, by this function they can export it to html and further they can manually do the required realignment work in excel
+
+Pre - Requisities
+
+1. Before running the bot, select the company you want and the period you want for the daybook to be exported in Tally
+2. Maintain the export format as html in daybook before starting 
+3. After running the bot, You would get a high pitched sound. After hearing that, quickly go to the tally window manually 
+
+Commands given to the Bot
+
+1. Press K
+2. Click Alt + Fn + F2 #Some systems allow Alt + F2 without Function key check as per your system
+3. Enter a23 #Click your desired period
+4. Click enter
+5. Enter m24 #Click your desired period here
+6. Click enter
+7. Wait for 15 seconds
+8. Click Ctrl + E
+9. Press C
+10. Go 18 times down & Click #Check if the show more option is not enabled
+ #Default html taken and given or else change the code
+11. Change name as "Userdaybook.export.html" #Any unique name
+12. Click enter
+13. Press Ctrl + A
+14. Then Press E
+15. Wait until it exports
