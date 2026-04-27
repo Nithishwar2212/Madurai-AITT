@@ -17,7 +17,7 @@ Pre - Requisities
     It uses pip utility which would generally be installed along with python installation. You can see the packages list in command prompt by typing 'pip list'
     For this code, this can be typed in command prompt 'pip install pyautogui'
     You can also use AI to see what packages are required for the code to be used by simply copying the code and pasting it in AI and ask what packages are required to be installed to use this code?. This is a better way
-4. After running the bot, You would get a high pitched sound. After hearing that, quickly go to the tally window manually 
+4. After running the bot, You would get a high pitched sound which indicates it has started. After hearing that, quickly go to the tally window manually. In case you want to stop the bot, You can go to any corner of the monitor through mouse. You will hear a low pitched sound. After that, you can restart. After completing, you would again hear the sound indicating the same
 
 Commands given to the Bot
 
